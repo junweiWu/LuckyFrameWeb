@@ -56,7 +56,7 @@
 <label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"contact\">
 連絡先</label>
 <div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
-<div title=\"001-000131\" class=\"vue-input\">
+<div title=\"001-00013\" class=\"vue-input\">
 <!---->
  <!---->
  <input class=\"vue-input__inner\" type=\"text\" maxlength=\"40\" autocomplete=\"off\">
@@ -262,7 +262,7 @@ IPアドレス</label>
 </colgroup>
 <tbody>
 <tr class=\"vue-table__row\">
-<td class=\"vue-table__cell\">
+<td class=\"vue-table__cell template-column-cell\">
 <div class=\"cell\">
 <div class=\"ime-mode_active vue-input\">
 <!---->
@@ -274,7 +274,7 @@ IPアドレス</label>
 </div>
 </div>
 </td>
-<td class=\"vue-table__cell\">
+<td class=\"vue-table__cell template-column-cell\">
 <div class=\"cell\">
 <div class=\"ime-mode_active vue-input\">
 <!---->
@@ -853,7 +853,7 @@ YMC_組立技術</span>
 </colgroup>
 <tbody>
 <tr class=\"vue-table__row\">
-<td class=\"vue-table__cell is-center\">
+<td class=\"vue-table__cell is-center template-column-cell\">
 <div class=\"cell\">
 <label class=\"vue-checkbox\">
 <span class=\"vue-checkbox__input is-disabled\">
@@ -874,7 +874,7 @@ K200219001</div>
 呉テスト</div>
 <!---->
 </td>
-<td class=\"vue-table__cell\">
+<td class=\"vue-table__cell template-column-cell\">
 <div class=\"cell\">
 <a class=\"cursor-pointer\">
 Link</a>
@@ -1224,7 +1224,7 @@ WeChat Image_20200519153101.png</div>
 <div class=\"cell\">
 2020/06/18 10:54:02</div>
 </td>
-<td class=\"vue-table__cell is-hidden\">
+<td class=\"vue-table__cell is-hidden template-column-cell\">
 <div class=\"cell\">
 <button class=\"vue-button vue-button--default vue-button--mini\" type=\"button\">
 <!---->
