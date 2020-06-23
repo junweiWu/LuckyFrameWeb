@@ -1,31 +1,31 @@
-<div id="editDiv" style="height: 514px; width: 100%; overflow: auto;">
-<div id="twoColLeft" class="col-md-6 col-sm-6 col-xs-6">
-<div id="assetsItemInfo" class="col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show">
-<div class="height30 border-bottom1">
-<div class="col-md-12 col-sm-12 col-xs-12 assetinfoitem-header">
-<div class="padding-top5 float-left">
-<a href="javascript:;">
-<span title="非表示" class="glyphicon glyphicon-triangle-bottom">
+﻿"<div id=\"editDiv\" style=\"width: 100%; height: 544px; overflow: auto;\">
+<div class=\"col-md-6 col-sm-6 col-xs-6\" id=\"twoColLeft\">
+<div class=\"col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show\" id=\"assetsItemInfo\">
+<div class=\"height30 border-bottom1\">
+<div class=\"col-md-12 col-sm-12 col-xs-12 assetinfoitem-header\">
+<div class=\"padding-top5 float-left\">
+<a href=\"javascript:;\">
+<span title=\"非表示\" class=\"glyphicon glyphicon-triangle-bottom\">
 </span>
 </a>
  <span>
 基礎情報</span>
 </div>
- <div class="padding-top3 float-right">
+ <div class=\"padding-top3 float-right\">
 </div>
 </div>
 </div>
- <div class="padding-top5">
-<form class="vue-form" style="position: relative;">
-<div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23">
-<div class="vue-form-item">
-<label for="roomCode" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"padding-top5\">
+<form class=\"vue-form\" style=\"position: relative;\">
+<div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23\">
+<div class=\"vue-form-item\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"roomCode\">
 部屋ID</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="vue-input is-disabled">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div class=\"vue-input is-disabled\">
 <!---->
  <!---->
- <input type="text" disabled="disabled" maxlength="60" autocomplete="off" class="vue-input__inner">
+ <input disabled=\"disabled\" class=\"vue-input__inner\" type=\"text\" maxlength=\"60\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -34,15 +34,15 @@
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23">
-<div class="vue-form-item is-required">
-<label for="roomName" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23\">
+<div class=\"vue-form-item is-required\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"roomName\">
 部屋名称</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="ime-mode_active vue-input" title="#4-02(動力計_55kW_YZ)">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div title=\"#4-02(動力計_55kW_YZ)\" class=\"ime-mode_active vue-input\">
 <!---->
  <!---->
- <input type="text" maxlength="60" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" maxlength=\"60\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -51,15 +51,15 @@
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23">
-<div class="vue-form-item">
-<label for="contact" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23\">
+<div class=\"vue-form-item\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"contact\">
 連絡先</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="vue-input" title="001-00013">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div title=\"001-000131\" class=\"vue-input\">
 <!---->
  <!---->
- <input type="text" maxlength="40" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" maxlength=\"40\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -68,17 +68,17 @@
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23">
-<div class="vue-form-item is-required">
-<label for="classifyName" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23\">
+<div class=\"vue-form-item is-required\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"classifyName\">
 物品種類</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="valueListButton">
-<div class="vue-input is-readonly" title="設備_試験機_動力計_AC&amp;FC">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div class=\"valueListButton\">
+<div title=\"設備_試験機_動力計_AC&amp;FC\" class=\"vue-input is-readonly\">
 <!---->
- <i class="vue-input__icon vue-icon-more">
+ <i class=\"vue-input__icon vue-icon-more\">
 </i>
- <input type="text" placeholder="選択してください。" readonly="readonly" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" readonly=\"readonly\" placeholder=\"選択してください。\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -88,15 +88,15 @@
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23">
-<div class="vue-form-item">
-<label for="ipAddress" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23\">
+<div class=\"vue-form-item\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"ipAddress\">
 IPアドレス</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="vue-input" title=" 10.191.18.101">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div title=\" 10.191.18.101\" class=\"vue-input\">
 <!---->
  <!---->
- <input type="text" maxlength="60" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" maxlength=\"60\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -105,15 +105,15 @@ IPアドレス</label>
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23">
-<div class="vue-form-item">
-<label for="updateDate" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23\">
+<div class=\"vue-form-item\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"updateDate\">
 最終更新日</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="vue-input is-disabled">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div class=\"vue-input is-disabled\">
 <!---->
  <!---->
- <input type="text" disabled="disabled" maxlength="6" autocomplete="off" class="vue-input__inner">
+ <input disabled=\"disabled\" class=\"vue-input__inner\" type=\"text\" maxlength=\"6\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -122,15 +122,15 @@ IPアドレス</label>
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23">
-<div class="vue-form-item">
-<label for="updateUser" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23\">
+<div class=\"vue-form-item\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"updateUser\">
 最終更新者</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="vue-input is-disabled">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div class=\"vue-input is-disabled\">
 <!---->
  <!---->
- <input type="text" disabled="disabled" maxlength="6" autocomplete="off" class="vue-input__inner">
+ <input disabled=\"disabled\" class=\"vue-input__inner\" type=\"text\" maxlength=\"6\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -139,118 +139,114 @@ IPアドレス</label>
 </div>
 </div>
 </div>
-<input style="display: none;">
-<div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 620px; height: 1px;">
+<input style=\"display: none;\">
+<div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 620px; height: 18px;\">
 </div>
 </div>
-<div class="contract-trigger">
+<div class=\"contract-trigger\">
 </div>
 </div>
 </form>
 </div>
 </div>
- <div id="machineSummary" class="col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show">
-<div class="height30 border-bottom1">
-<div class="col-md-12 col-sm-12 col-xs-12 assetinfoitem-header">
-<div class="padding-top5 float-left">
-<a href="javascript:;">
-<span title="非表示" class="glyphicon glyphicon-triangle-bottom">
+ <div class=\"col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show\" id=\"machineSummary\">
+<div class=\"height30 border-bottom1\">
+<div class=\"col-md-12 col-sm-12 col-xs-12 assetinfoitem-header\">
+<div class=\"padding-top5 float-left\">
+<a href=\"javascript:;\">
+<span title=\"非表示\" class=\"glyphicon glyphicon-triangle-bottom\">
 </span>
 </a>
  <span>
 機器概要</span>
 </div>
- <div class="padding-top3 float-right">
+ <div class=\"padding-top3 float-right\">
 </div>
 </div>
 </div>
- <div class="padding-top5">
-<form class="vue-form" style="position: relative;">
-<div class="margin-bottom5 vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23">
-<div class="vue-form-item">
-<label for="machineSummary" class="vue-form-item__label" style="width: 15px;">
+ <div class=\"padding-top5\">
+<form class=\"vue-form\" style=\"position: relative;\">
+<div class=\"margin-bottom5 vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-23\">
+<div class=\"vue-form-item\">
+<label class=\"vue-form-item__label\" style=\"width: 15px;\" for=\"machineSummary\">
  </label>
-<div class="vue-form-item__content" style="margin-left: 15px;">
-<div class="ime-mode_active vue-textarea">
-<textarea placeholder="" rows="4" maxlength="255" class="vue-textarea__inner" style="min-height: 30px;">
-</textarea>
+<div class=\"vue-form-item__content\" style=\"margin-left: 15px;\">
+<div class=\"ime-mode_active vue-textarea\">
+<textarea class=\"vue-textarea__inner\" style=\"min-height: 30px;\" maxlength=\"255\" placeholder=\"\" rows=\"4\">
+．＃２３　高速シャーシ　シャーシ・ダイナモ（小野測器）\n．＃２３　高速シャーシ　シャーシ・ダイナモ（小野測器）\n．＃２３　高速シャーシ　シャーシ・ダイナモ（小野測器）\n．＃２３　高速シャーシ　シャーシ・ダイナモ（小野測器）</textarea>
 </div>
 <!---->
 </div>
 </div>
 </div>
-<input style="display: none;">
-<div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 620px; height: 1px;">
+<input style=\"display: none;\">
+<div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 620px; height: 18px;\">
 </div>
 </div>
-<div class="contract-trigger">
+<div class=\"contract-trigger\">
 </div>
 </div>
 </form>
 </div>
 </div>
- <div id="roomAsset" class="col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show">
-<div class="height30 border-bottom1">
-<div class="col-md-12 col-sm-12 col-xs-12 assetinfoitem-header">
-<div class="padding-top5 float-left">
-<a href="javascript:;">
-<span title="非表示" class="glyphicon glyphicon-triangle-bottom">
+ <div class=\"col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show\" id=\"roomAsset\">
+<div class=\"height30 border-bottom1\">
+<div class=\"col-md-12 col-sm-12 col-xs-12 assetinfoitem-header\">
+<div class=\"padding-top5 float-left\">
+<a href=\"javascript:;\">
+<span title=\"非表示\" class=\"glyphicon glyphicon-triangle-bottom\">
 </span>
 </a>
  <span>
 設備概要</span>
 </div>
- <div class="padding-top3 float-right">
-<button type="button" class="vue-button vue-button--default vue-button--mini" id="roomInfoItem-roomAssetAddRow" title="行追加">
+ <div class=\"padding-top3 float-right\">
+<button title=\"行追加\" class=\"vue-button vue-button--default vue-button--mini\" id=\"roomInfoItem-roomAssetAddRow\" type=\"button\">
 <!---->
 <!---->
 <span>
-
-									行追加
-								</span>
+\n\t\t\t\t\t\t\t\t\t行追加\n\t\t\t\t\t\t\t\t</span>
 </button>
- <button disabled="disabled" type="button" class="vue-button vue-button--default vue-button--mini is-disabled" id="roomInfoItem-roomAssetDelRow" title="行削除">
+ <button title=\"行削除\" disabled=\"disabled\" class=\"vue-button vue-button--default vue-button--mini is-disabled\" id=\"roomInfoItem-roomAssetDelRow\" type=\"button\">
 <!---->
 <!---->
 <span>
-
-									行削除
-								</span>
+\n\t\t\t\t\t\t\t\t\t行削除\n\t\t\t\t\t\t\t\t</span>
 </button>
 </div>
 </div>
 </div>
  <div>
-<div class="vue-row" id="roomAssetTable">
-<div class="width-100 vue-table vue-table--fit vue-table--border" style="height: 112px;">
-<div class="hidden-columns">
+<div class=\"vue-row\" id=\"roomAssetTable\">
+<div class=\"width-100 vue-table vue-table--fit vue-table--border\" style=\"height: 112px;\">
+<div class=\"hidden-columns\">
 <div>
 </div>
  <div>
 </div>
 </div>
-<div class="vue-table__main">
-<div class="vue-table__header-wrapper">
-<table cellspacing="0" cellpadding="0" border="0" class="vue-table__header" style="width: 618px;">
+<div class=\"vue-table__main\">
+<div class=\"vue-table__header-wrapper\">
+<table class=\"vue-table__header\" style=\"width: 618px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
 <colgroup>
-<col name="vue-table_column_1" width="301">
-<col name="vue-table_column_2" width="300">
+<col width=\"301\" name=\"vue-table_column_1\">
+<col width=\"300\" name=\"vue-table_column_2\">
 </colgroup>
 <thead>
-<tr class="vue-table__row">
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-assetOverview1">
+<tr class=\"vue-table__row\">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-assetOverview1\">
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-assetOverview2">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-assetOverview2\">
 </span>
 </div>
 </th>
@@ -258,32 +254,32 @@ IPアドレス</label>
 </thead>
 </table>
 </div>
-<div tabindex="0" class="vue-table__body-wrapper" style="height: 111px;">
-<table cellspacing="0" cellpadding="0" border="0" class="vue-table__body" style="margin-top: 0px; margin-bottom: 0px; width: 618px;">
+<div tabindex=\"0\" class=\"vue-table__body-wrapper\" style=\"height: 111px;\">
+<table class=\"vue-table__body\" style=\"width: 618px; margin-top: 0px; margin-bottom: 0px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
 <colgroup>
-<col name="vue-table_column_1" width="301">
-<col name="vue-table_column_2" width="300">
+<col width=\"301\" name=\"vue-table_column_1\">
+<col width=\"300\" name=\"vue-table_column_2\">
 </colgroup>
 <tbody>
-<tr class="vue-table__row">
-<td class="vue-table__cell template-column-cell">
-<div class="cell">
-<div class="ime-mode_active vue-input">
+<tr class=\"vue-table__row\">
+<td class=\"vue-table__cell\">
+<div class=\"cell\">
+<div class=\"ime-mode_active vue-input\">
 <!---->
  <!---->
- <input type="text" maxlength="60" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" maxlength=\"60\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
 </div>
 </div>
 </td>
-<td class="vue-table__cell template-column-cell">
-<div class="cell">
-<div class="ime-mode_active vue-input">
+<td class=\"vue-table__cell\">
+<div class=\"cell\">
+<div class=\"ime-mode_active vue-input\">
 <!---->
  <!---->
- <input type="text" maxlength="60" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" maxlength=\"60\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -291,25 +287,25 @@ IPアドレス</label>
 </div>
 </td>
 </tr>
-<tr class="vue-table__row">
-<td class="vue-table__cell grey template-column-cell">
-<div class="cell">
-<div class="ime-mode_active vue-input">
+<tr class=\"vue-table__row\">
+<td class=\"vue-table__cell grey template-column-cell\">
+<div class=\"cell\">
+<div class=\"ime-mode_active vue-input\">
 <!---->
  <!---->
- <input type="text" maxlength="60" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" maxlength=\"60\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
 </div>
 </div>
 </td>
-<td class="vue-table__cell grey template-column-cell">
-<div class="cell">
-<div class="ime-mode_active vue-input">
+<td class=\"vue-table__cell grey template-column-cell\">
+<div class=\"cell\">
+<div class=\"ime-mode_active vue-input\">
 <!---->
  <!---->
- <input type="text" maxlength="60" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" maxlength=\"60\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -319,143 +315,146 @@ IPアドレス</label>
 </tr>
 </tbody>
 </table>
-<div class="vue-table__empty-block" style="width: 618px; display: none;">
-<span class="vue-table__empty-text">
+<div class=\"vue-table__empty-block\" style=\"width: 618px; display: none;\">
+<span class=\"vue-table__empty-text\">
 </span>
 </div>
 </div>
-<div class="vue-table__footer-wrapper" style="display: none;">
+<div class=\"vue-table__footer-wrapper\" style=\"display: none;\">
 <!---->
 </div>
 </div>
-<div class="vue-table__fixed" style="display: none; height: 111px;">
-<div class="vue-table__fixed-header-wrapper">
+<div class=\"vue-table__fixed\" style=\"height: 111px; display: none;\">
+<div class=\"vue-table__fixed-header-wrapper\">
 <!---->
 </div>
-<div class="vue-table__fixed-body-wrapper" style="top: 0px; height: 111px;">
+<div class=\"vue-table__fixed-body-wrapper\" style=\"top: 0px; height: 111px;\">
 <!---->
 </div>
-<div class="vue-table__fixed-footer-wrapper" style="display: none;">
-<!---->
-</div>
-</div>
-<div class="vue-table__fixed-right" style="display: none; height: 111px;">
-<div class="vue-table__fixed-header-wrapper">
-<!---->
-</div>
-<div class="vue-table__fixed-body-wrapper" style="top: 0px; height: 111px;">
-<!---->
-</div>
-<div class="vue-table__fixed-footer-wrapper" style="display: none;">
+<div class=\"vue-table__fixed-footer-wrapper\" style=\"display: none;\">
 <!---->
 </div>
 </div>
-<div class="vue-table__fixed-right-patch" style="width: 0px; height: 0px; display: none;">
+<div class=\"vue-table__fixed-right\" style=\"height: 111px; display: none;\">
+<div class=\"vue-table__fixed-header-wrapper\">
+<!---->
 </div>
-<div class="vue-table__column-resize-proxy" style="display: none;">
+<div class=\"vue-table__fixed-body-wrapper\" style=\"top: 0px; height: 111px;\">
+<!---->
+</div>
+<div class=\"vue-table__fixed-footer-wrapper\" style=\"display: none;\">
+<!---->
+</div>
+</div>
+<div class=\"vue-table__fixed-right-patch\" style=\"width: 0px; height: 0px; display: none;\">
+</div>
+<div class=\"vue-table__column-resize-proxy\" style=\"display: none;\">
 </div>
 <!---->
-<div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 619px; height: 112px;">
+<div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 619px; height: 112px;\">
 </div>
 </div>
-<div class="contract-trigger">
+<div class=\"contract-trigger\">
 </div>
 </div>
 </div>
 </div>
- <div class="vue-row">
-<div class="vue-table vue-table--fit vue-table--border" style="height: 0px;">
-<div class="hidden-columns">
+ <div class=\"vue-row\">
+<div class=\"vue-table vue-table--fit vue-table--border\" style=\"height: 0px;\">
+<div class=\"hidden-columns\">
 <div>
 </div>
  <div>
 </div>
 </div>
-<div class="vue-table__main">
-<div class="vue-table__header-wrapper">
-<table cellspacing="0" cellpadding="0" border="0" class="vue-table__header" style="width: 618px;">
+<div class=\"vue-table__main\">
+<div class=\"vue-table__header-wrapper\">
+<table class=\"vue-table__header\" style=\"width: 160px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
 <colgroup>
-<col name="vue-table_column_3" width="301">
-<col name="vue-table_column_4" width="300">
+<col width=\"80\" name=\"vue-table_column_3\">
+<col width=\"80\" name=\"vue-table_column_4\">
+<col width=\"17\" name=\"gutter\">
 </colgroup>
 <thead>
-<tr class="vue-table__row">
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-propertyName">
+<tr class=\"vue-table__row\">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-propertyName\">
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-propertyValue">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-propertyValue\">
 </span>
 </div>
+</th>
+<th class=\"vue-table__column gutter\">
 </th>
 </tr>
 </thead>
 </table>
 </div>
-<div tabindex="0" class="vue-table__body-wrapper">
+<div tabindex=\"0\" class=\"vue-table__body-wrapper\">
 <!---->
-<div class="vue-table__empty-block" style="width: 618px;">
-<span class="vue-table__empty-text">
+<div class=\"vue-table__empty-block\" style=\"width: 160px;\">
+<span class=\"vue-table__empty-text\">
 </span>
 </div>
 </div>
-<div class="vue-table__footer-wrapper" style="display: none;">
+<div class=\"vue-table__footer-wrapper\" style=\"display: none;\">
 <!---->
 </div>
 </div>
-<div class="vue-table__fixed" style="display: none;">
-<div class="vue-table__fixed-header-wrapper">
+<div class=\"vue-table__fixed\" style=\"display: none;\">
+<div class=\"vue-table__fixed-header-wrapper\">
 <!---->
 </div>
-<div class="vue-table__fixed-body-wrapper" style="top: 0px;">
+<div class=\"vue-table__fixed-body-wrapper\" style=\"top: 0px;\">
 <!---->
 </div>
-<div class="vue-table__fixed-footer-wrapper" style="display: none;">
-<!---->
-</div>
-</div>
-<div class="vue-table__fixed-right" style="display: none;">
-<div class="vue-table__fixed-header-wrapper">
-<!---->
-</div>
-<div class="vue-table__fixed-body-wrapper" style="top: 0px;">
-<!---->
-</div>
-<div class="vue-table__fixed-footer-wrapper" style="display: none;">
+<div class=\"vue-table__fixed-footer-wrapper\" style=\"display: none;\">
 <!---->
 </div>
 </div>
-<div class="vue-table__fixed-right-patch" style="width: 0px; height: 0px; display: none;">
+<div class=\"vue-table__fixed-right\" style=\"display: none;\">
+<div class=\"vue-table__fixed-header-wrapper\">
+<!---->
 </div>
-<div class="vue-table__column-resize-proxy" style="display: none;">
+<div class=\"vue-table__fixed-body-wrapper\" style=\"top: 0px;\">
+<!---->
+</div>
+<div class=\"vue-table__fixed-footer-wrapper\" style=\"display: none;\">
+<!---->
+</div>
+</div>
+<div class=\"vue-table__fixed-right-patch\" style=\"width: 0px; height: 0px; display: none;\">
+</div>
+<div class=\"vue-table__column-resize-proxy\" style=\"display: none;\">
 </div>
 <!---->
-<div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 619px; height: 1px;">
+<div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 619px; height: 18px;\">
 </div>
 </div>
-<div class="contract-trigger">
-</div>
-</div>
-</div>
+<div class=\"contract-trigger\">
 </div>
 </div>
 </div>
 </div>
- <div id="twoColRight" class="col-md-6 col-sm-6 col-xs-6">
-<div id="assetsItemUserInfo" class="col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show">
-<div class="height30 border-bottom1">
-<div class="col-md-12 col-sm-12 col-xs-12 assetinfoitem-header">
-<div class="float-left padding-top5">
-<a href="javascript:;">
-<span title="非表示" class="glyphicon glyphicon-triangle-bottom">
+</div>
+</div>
+</div>
+ <div class=\"col-md-6 col-sm-6 col-xs-6\" id=\"twoColRight\">
+<div class=\"col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show\" id=\"assetsItemUserInfo\">
+<div class=\"height30 border-bottom1\">
+<div class=\"col-md-12 col-sm-12 col-xs-12 assetinfoitem-header\">
+<div class=\"float-left padding-top5\">
+<a href=\"javascript:;\">
+<span title=\"非表示\" class=\"glyphicon glyphicon-triangle-bottom\">
 </span>
 </a>
  <span>
@@ -463,172 +462,172 @@ IPアドレス</label>
 </div>
 </div>
 </div>
- <div class="padding-top5">
-<form class="vue-form" style="position: relative;">
-<div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19">
-<div class="vue-form-item is-required">
-<label for="manageGroupCode" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"padding-top5\">
+<form class=\"vue-form\" style=\"position: relative;\">
+<div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19\">
+<div class=\"vue-form-item is-required\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"manageGroupCode\">
 管理グループ</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="vue-select ime-mode_active">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div class=\"vue-select ime-mode_active\">
 <!---->
- <div class="vue-input">
+ <div class=\"vue-input\">
 <!---->
- <i class="vue-input__icon vue-icon-arrow-up">
+ <i class=\"vue-input__icon vue-icon-arrow-up\">
 </i>
- <input type="text" placeholder="選択してください。" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" placeholder=\"選択してください。\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
 </div>
- <div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 371px; height: 27px;">
+ <div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 371px; height: 27px;\">
 </div>
 </div>
-<div class="contract-trigger">
+<div class=\"contract-trigger\">
 </div>
 </div>
-<div class="vue-select-dropdown" x-placement="bottom-start" style="display: none; position: fixed; top: 67px; transform-origin: center top; z-index: 2000; width: 370px; left: 787px;">
-<ul class="vue-select-dropdown__list" style="">
+<div class=\"vue-select-dropdown\" style=\"transform-origin: center top; left: 787px; top: 67px; width: 370px; display: none; position: fixed; z-index: 2000;\" x-placement=\"bottom-start\">
+<ul class=\"vue-select-dropdown__list\">
 <!---->
- <li class="vue-select-dropdown__item" style="display: none;">
+ <li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_AM事業部</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_EV開発</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_IM</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_MCサービス</span>
 </li>
-<li class="vue-select-dropdown__item selected">
+<li class=\"vue-select-dropdown__item selected\">
 <span>
 YMC_MC実験</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_MC営業</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_ME</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_MS普及</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_OMDO車両管理</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_RV開発</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_UMS</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_WV</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_YEC</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_YHSJ</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_YMPC</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_YZ</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_コースG</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_ｺｰﾎﾟﾚｰﾄ品証</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_ﾃﾞｻﾞｲﾝ本部</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_モトGP</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_部品事業部</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_材料技術</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_調達本部</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_広報</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_技術本部</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_技術開発</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_品質革新</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_品質監理</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_認証技術</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_生産本部</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_試作技術</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_物流</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_一般共通</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_総務</span>
 </li>
-<li class="vue-select-dropdown__item" style="display: none;">
+<li class=\"vue-select-dropdown__item\" style=\"display: none;\">
 <span>
 YMC_組立技術</span>
 </li>
@@ -640,17 +639,17 @@ YMC_組立技術</span>
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-20 vue-col-sm-20 vue-col-md-20 vue-col-lg-19">
-<div class="vue-form-item is-required">
-<label for="assetLocalName" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-20 vue-col-sm-20 vue-col-md-20 vue-col-lg-19\">
+<div class=\"vue-form-item is-required\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"assetLocalName\">
 設置場所</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="valueListButton">
-<div class="vue-input is-readonly" title="本社本館エリア_4号館_1F_2">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div class=\"valueListButton\">
+<div title=\"本社本館エリア_4号館_1F_2\" class=\"vue-input is-readonly\">
 <!---->
- <i class="vue-input__icon vue-icon-more">
+ <i class=\"vue-input__icon vue-icon-more\">
 </i>
- <input type="text" placeholder="選択してください。" readonly="readonly" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" readonly=\"readonly\" placeholder=\"選択してください。\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -660,37 +659,37 @@ YMC_組立技術</span>
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19">
-<div class="vue-form-item is-required">
-<label for="personDbid" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19\">
+<div class=\"vue-form-item is-required\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"personDbid\">
 部屋機器管理者</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="vue-select ime-mode_active" title="">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div title=\"\" class=\"vue-select ime-mode_active\">
 <!---->
- <div class="vue-input">
+ <div class=\"vue-input\">
 <!---->
  <!---->
- <input type="text" placeholder="直接入力して検索してください。" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" placeholder=\"直接入力して検索してください。\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
 </div>
- <div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 371px; height: 27px;">
+ <div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 371px; height: 27px;\">
 </div>
 </div>
-<div class="contract-trigger">
+<div class=\"contract-trigger\">
 </div>
 </div>
-<div class="vue-select-dropdown" x-placement="bottom-start" style="display: none; position: fixed; top: 127px; transform-origin: center top; z-index: 2001; width: 370px; left: 787px;">
-<ul class="vue-select-dropdown__list" style="">
+<div class=\"vue-select-dropdown\" style=\"transform-origin: center top; left: 787px; top: 127px; width: 370px; display: none; position: fixed; z-index: 2001;\" x-placement=\"bottom-start\">
+<ul class=\"vue-select-dropdown__list\">
 <!---->
- <li class="vue-select-dropdown__item">
+ <li class=\"vue-select-dropdown__item\">
 <span>
 </span>
 </li>
- <li class="vue-select-dropdown__item selected">
+ <li class=\"vue-select-dropdown__item selected\">
 <span>
 石垣 航(712-43606/19)</span>
 </li>
@@ -698,43 +697,43 @@ YMC_組立技術</span>
  <!---->
 </div>
 </div>
- <i class="vue-icon-search margin-top8 search right8 color-aliceblue font-color-icon" style="display: none;">
+ <i class=\"vue-icon-search margin-top8 search right8 color-aliceblue font-color-icon\" style=\"display: none;\">
 </i>
 <!---->
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19">
-<div class="vue-form-item is-required">
-<label for="upUserDbid" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19\">
+<div class=\"vue-form-item is-required\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"upUserDbid\">
 部屋統括管理者</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="vue-select ime-mode_active" title="">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div title=\"\" class=\"vue-select ime-mode_active\">
 <!---->
- <div class="vue-input">
+ <div class=\"vue-input\">
 <!---->
  <!---->
- <input type="text" placeholder="直接入力して検索してください。" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" placeholder=\"直接入力して検索してください。\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
 </div>
- <div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 371px; height: 27px;">
+ <div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 371px; height: 27px;\">
 </div>
 </div>
-<div class="contract-trigger">
+<div class=\"contract-trigger\">
 </div>
 </div>
-<div class="vue-select-dropdown" x-placement="bottom-start" style="display: none; position: fixed; top: 157px; transform-origin: center top; z-index: 2002; width: 370px; left: 787px;">
-<ul class="vue-select-dropdown__list" style="">
+<div class=\"vue-select-dropdown\" style=\"transform-origin: center top; left: 787px; top: 157px; width: 370px; display: none; position: fixed; z-index: 2002;\" x-placement=\"bottom-start\">
+<ul class=\"vue-select-dropdown__list\">
 <!---->
- <li class="vue-select-dropdown__item">
+ <li class=\"vue-select-dropdown__item\">
 <span>
 </span>
 </li>
- <li class="vue-select-dropdown__item selected">
+ <li class=\"vue-select-dropdown__item selected\">
 <span>
 倉野 由之(712-43606/19)</span>
 </li>
@@ -742,21 +741,21 @@ YMC_組立技術</span>
  <!---->
 </div>
 </div>
- <i class="vue-icon-search margin-top8 search right8 color-aliceblue font-color-icon" style="display: none;">
+ <i class=\"vue-icon-search margin-top8 search right8 color-aliceblue font-color-icon\" style=\"display: none;\">
 </i>
 <!---->
 </div>
 </div>
 </div>
- <div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19">
-<div class="vue-form-item is-required">
-<label for="faultContact" class="vue-form-item__label" style="width: 120px;">
+ <div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19\">
+<div class=\"vue-form-item is-required\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\" for=\"faultContact\">
 故障時連絡先</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<div class="vue-input" title="010-10001">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<div title=\"010-10001\" class=\"vue-input\">
 <!---->
  <!---->
- <input type="text" maxlength="40" autocomplete="off" class="vue-input__inner">
+ <input class=\"vue-input__inner\" type=\"text\" maxlength=\"40\" autocomplete=\"off\">
  <!---->
  <!---->
  <!---->
@@ -765,37 +764,37 @@ YMC_組立技術</span>
 </div>
 </div>
 </div>
-<input style="display: none;">
-<div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 620px; height: 1px;">
+<input style=\"display: none;\">
+<div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 620px; height: 18px;\">
 </div>
 </div>
-<div class="contract-trigger">
+<div class=\"contract-trigger\">
 </div>
 </div>
 </form>
 </div>
 </div>
- <div id="relatedAsset" class="col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show">
-<div class="height30 border-bottom1">
-<div class="col-md-12 col-sm-12 col-xs-12 assetinfoitem-header">
-<div class="padding-top5 float-left">
-<a href="javascript:;">
-<span title="非表示" class="glyphicon glyphicon-triangle-bottom">
+ <div class=\"col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show\" id=\"relatedAsset\">
+<div class=\"height30 border-bottom1\">
+<div class=\"col-md-12 col-sm-12 col-xs-12 assetinfoitem-header\">
+<div class=\"padding-top5 float-left\">
+<a href=\"javascript:;\">
+<span title=\"非表示\" class=\"glyphicon glyphicon-triangle-bottom\">
 </span>
 </a>
  <span>
 付帯設備</span>
 </div>
- <div class="padding-top3 float-right">
+ <div class=\"padding-top3 float-right\">
 </div>
 </div>
 </div>
  <div>
-<div class="vue-row" id="relatedAssetTable">
-<div class="width-100 vue-table vue-table--fit vue-table--border" style="height: 172px;">
-<div class="hidden-columns">
+<div class=\"vue-row\" id=\"relatedAssetTable\">
+<div class=\"width-100 vue-table vue-table--fit vue-table--border\" style=\"height: 172px;\">
+<div class=\"hidden-columns\">
 <div>
 </div>
  <div>
@@ -805,38 +804,38 @@ YMC_組立技術</span>
  <div>
 </div>
 </div>
-<div class="vue-table__main">
-<div class="vue-table__header-wrapper">
-<table cellspacing="0" cellpadding="0" border="0" class="vue-table__header" style="width: 618px;">
+<div class=\"vue-table__main\">
+<div class=\"vue-table__header-wrapper\">
+<table class=\"vue-table__header\" style=\"width: 618px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
 <colgroup>
-<col name="vue-table_column_5" width="50">
-<col name="vue-table_column_6" width="120">
-<col name="vue-table_column_7" width="371">
-<col name="vue-table_column_8" width="60">
+<col width=\"50\" name=\"vue-table_column_5\">
+<col width=\"120\" name=\"vue-table_column_6\">
+<col width=\"371\" name=\"vue-table_column_7\">
+<col width=\"60\" name=\"vue-table_column_8\">
 </colgroup>
 <thead>
-<tr class="vue-table__row">
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-undefined">
+<tr class=\"vue-table__row\">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-undefined\">
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-fastenAssetCode">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-fastenAssetCode\">
 物品ID</span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-assetName">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-assetName\">
 物品名称</span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-undefined">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-undefined\">
 </span>
 </div>
 </th>
@@ -844,216 +843,216 @@ YMC_組立技術</span>
 </thead>
 </table>
 </div>
-<div tabindex="0" class="vue-table__body-wrapper" style="height: 150px;">
-<table cellspacing="0" cellpadding="0" border="0" class="vue-table__body" style="margin-top: 0px; margin-bottom: 0px; width: 618px;">
+<div tabindex=\"0\" class=\"vue-table__body-wrapper\" style=\"height: 150px;\">
+<table class=\"vue-table__body\" style=\"width: 618px; margin-top: 0px; margin-bottom: 0px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
 <colgroup>
-<col name="vue-table_column_5" width="50">
-<col name="vue-table_column_6" width="120">
-<col name="vue-table_column_7" width="371">
-<col name="vue-table_column_8" width="60">
+<col width=\"50\" name=\"vue-table_column_5\">
+<col width=\"120\" name=\"vue-table_column_6\">
+<col width=\"371\" name=\"vue-table_column_7\">
+<col width=\"60\" name=\"vue-table_column_8\">
 </colgroup>
 <tbody>
-<tr class="vue-table__row">
-<td class="vue-table__cell is-center template-column-cell">
-<div class="cell">
-<label class="vue-checkbox">
-<span class="vue-checkbox__input is-disabled">
-<span class="vue-checkbox__inner">
+<tr class=\"vue-table__row\">
+<td class=\"vue-table__cell is-center\">
+<div class=\"cell\">
+<label class=\"vue-checkbox\">
+<span class=\"vue-checkbox__input is-disabled\">
+<span class=\"vue-checkbox__inner\">
 </span>
-<input type="checkbox" disabled="disabled" tabindex="0" class="vue-checkbox__original" value="">
+<input tabindex=\"0\" disabled=\"disabled\" class=\"vue-checkbox__original\" type=\"checkbox\" value=\"\">
 </span>
 <!---->
 </label>
 </div>
 </td>
-<td class="vue-table__cell">
-<div class="cell">
+<td class=\"vue-table__cell\">
+<div class=\"cell\">
 K200219001</div>
 </td>
-<td class="vue-table__cell">
-<div class="cell vue-tooltip">
+<td class=\"vue-table__cell\">
+<div class=\"cell vue-tooltip\">
 呉テスト</div>
 <!---->
 </td>
-<td class="vue-table__cell template-column-cell">
-<div class="cell">
-<a class="cursor-pointer">
+<td class=\"vue-table__cell\">
+<div class=\"cell\">
+<a class=\"cursor-pointer\">
 Link</a>
 </div>
 </td>
 </tr>
-<tr class="vue-table__row">
-<td class="vue-table__cell grey is-center template-column-cell">
-<div class="cell">
-<label class="vue-checkbox">
-<span class="vue-checkbox__input is-disabled">
-<span class="vue-checkbox__inner">
+<tr class=\"vue-table__row\">
+<td class=\"vue-table__cell grey is-center template-column-cell\">
+<div class=\"cell\">
+<label class=\"vue-checkbox\">
+<span class=\"vue-checkbox__input is-disabled\">
+<span class=\"vue-checkbox__inner\">
 </span>
-<input type="checkbox" disabled="disabled" tabindex="0" class="vue-checkbox__original" value="">
+<input tabindex=\"0\" disabled=\"disabled\" class=\"vue-checkbox__original\" type=\"checkbox\" value=\"\">
 </span>
 <!---->
 </label>
 </div>
 </td>
-<td class="vue-table__cell grey">
-<div class="cell">
+<td class=\"vue-table__cell grey\">
+<div class=\"cell\">
 S000101004</div>
 </td>
-<td class="vue-table__cell grey">
-<div class="cell vue-tooltip">
+<td class=\"vue-table__cell grey\">
+<div class=\"cell vue-tooltip\">
 ＃２３　高速シャーシ空力天秤装置</div>
 <!---->
 </td>
-<td class="vue-table__cell grey template-column-cell">
-<div class="cell">
-<a class="cursor-pointer">
+<td class=\"vue-table__cell grey template-column-cell\">
+<div class=\"cell\">
+<a class=\"cursor-pointer\">
 Link</a>
 </div>
 </td>
 </tr>
-<tr class="vue-table__row">
-<td class="vue-table__cell is-center template-column-cell">
-<div class="cell">
-<label class="vue-checkbox">
-<span class="vue-checkbox__input is-disabled">
-<span class="vue-checkbox__inner">
+<tr class=\"vue-table__row\">
+<td class=\"vue-table__cell is-center template-column-cell\">
+<div class=\"cell\">
+<label class=\"vue-checkbox\">
+<span class=\"vue-checkbox__input is-disabled\">
+<span class=\"vue-checkbox__inner\">
 </span>
-<input type="checkbox" disabled="disabled" tabindex="0" class="vue-checkbox__original" value="">
+<input tabindex=\"0\" disabled=\"disabled\" class=\"vue-checkbox__original\" type=\"checkbox\" value=\"\">
 </span>
 <!---->
 </label>
 </div>
 </td>
-<td class="vue-table__cell">
-<div class="cell">
+<td class=\"vue-table__cell\">
+<div class=\"cell\">
 S000101005</div>
 </td>
-<td class="vue-table__cell">
-<div class="cell vue-tooltip">
+<td class=\"vue-table__cell\">
+<div class=\"cell vue-tooltip\">
 ＃２３　高速シャーシ　排ガスダクト昇降装置</div>
 <!---->
 </td>
-<td class="vue-table__cell template-column-cell">
-<div class="cell">
-<a class="cursor-pointer">
+<td class=\"vue-table__cell template-column-cell\">
+<div class=\"cell\">
+<a class=\"cursor-pointer\">
 Link</a>
 </div>
 </td>
 </tr>
-<tr class="vue-table__row">
-<td class="vue-table__cell grey is-center template-column-cell">
-<div class="cell">
-<label class="vue-checkbox">
-<span class="vue-checkbox__input is-disabled">
-<span class="vue-checkbox__inner">
+<tr class=\"vue-table__row\">
+<td class=\"vue-table__cell grey is-center template-column-cell\">
+<div class=\"cell\">
+<label class=\"vue-checkbox\">
+<span class=\"vue-checkbox__input is-disabled\">
+<span class=\"vue-checkbox__inner\">
 </span>
-<input type="checkbox" disabled="disabled" tabindex="0" class="vue-checkbox__original" value="">
+<input tabindex=\"0\" disabled=\"disabled\" class=\"vue-checkbox__original\" type=\"checkbox\" value=\"\">
 </span>
 <!---->
 </label>
 </div>
 </td>
-<td class="vue-table__cell grey">
-<div class="cell">
+<td class=\"vue-table__cell grey\">
+<div class=\"cell\">
 S000101006</div>
 </td>
-<td class="vue-table__cell grey">
-<div class="cell vue-tooltip">
+<td class=\"vue-table__cell grey\">
+<div class=\"cell vue-tooltip\">
 ＃８ー６　ベンチ計測システム　マノメータ</div>
 <!---->
 </td>
-<td class="vue-table__cell grey template-column-cell">
-<div class="cell">
-<a class="cursor-pointer">
+<td class=\"vue-table__cell grey template-column-cell\">
+<div class=\"cell\">
+<a class=\"cursor-pointer\">
 Link</a>
 </div>
 </td>
 </tr>
-<tr class="vue-table__row">
-<td class="vue-table__cell is-center template-column-cell">
-<div class="cell">
-<label class="vue-checkbox">
-<span class="vue-checkbox__input is-disabled">
-<span class="vue-checkbox__inner">
+<tr class=\"vue-table__row\">
+<td class=\"vue-table__cell is-center template-column-cell\">
+<div class=\"cell\">
+<label class=\"vue-checkbox\">
+<span class=\"vue-checkbox__input is-disabled\">
+<span class=\"vue-checkbox__inner\">
 </span>
-<input type="checkbox" disabled="disabled" tabindex="0" class="vue-checkbox__original" value="">
+<input tabindex=\"0\" disabled=\"disabled\" class=\"vue-checkbox__original\" type=\"checkbox\" value=\"\">
 </span>
 <!---->
 </label>
 </div>
 </td>
-<td class="vue-table__cell">
-<div class="cell">
+<td class=\"vue-table__cell\">
+<div class=\"cell\">
 S000101007</div>
 </td>
-<td class="vue-table__cell">
-<div class="cell vue-tooltip">
+<td class=\"vue-table__cell\">
+<div class=\"cell vue-tooltip\">
 ＃８ー７　ベンチ計測システム　マノメータ</div>
 <!---->
 </td>
-<td class="vue-table__cell template-column-cell">
-<div class="cell">
-<a class="cursor-pointer">
+<td class=\"vue-table__cell template-column-cell\">
+<div class=\"cell\">
+<a class=\"cursor-pointer\">
 Link</a>
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="vue-table__empty-block" style="width: 618px; display: none;">
-<span class="vue-table__empty-text">
+<div class=\"vue-table__empty-block\" style=\"width: 618px; display: none;\">
+<span class=\"vue-table__empty-text\">
 </span>
 </div>
 </div>
-<div class="vue-table__footer-wrapper" style="display: none;">
+<div class=\"vue-table__footer-wrapper\" style=\"display: none;\">
 <!---->
 </div>
 </div>
-<div class="vue-table__fixed" style="display: none; height: 171px;">
-<div class="vue-table__fixed-header-wrapper">
+<div class=\"vue-table__fixed\" style=\"height: 171px; display: none;\">
+<div class=\"vue-table__fixed-header-wrapper\">
 <!---->
 </div>
-<div class="vue-table__fixed-body-wrapper" style="top: 21px; height: 150px;">
+<div class=\"vue-table__fixed-body-wrapper\" style=\"top: 21px; height: 150px;\">
 <!---->
 </div>
-<div class="vue-table__fixed-footer-wrapper" style="display: none;">
-<!---->
-</div>
-</div>
-<div class="vue-table__fixed-right" style="display: none; height: 171px;">
-<div class="vue-table__fixed-header-wrapper">
-<!---->
-</div>
-<div class="vue-table__fixed-body-wrapper" style="top: 21px; height: 150px;">
-<!---->
-</div>
-<div class="vue-table__fixed-footer-wrapper" style="display: none;">
+<div class=\"vue-table__fixed-footer-wrapper\" style=\"display: none;\">
 <!---->
 </div>
 </div>
-<div class="vue-table__fixed-right-patch" style="width: 0px; height: 21px; display: none;">
+<div class=\"vue-table__fixed-right\" style=\"height: 171px; display: none;\">
+<div class=\"vue-table__fixed-header-wrapper\">
+<!---->
 </div>
-<div class="vue-table__column-resize-proxy" style="display: none;">
+<div class=\"vue-table__fixed-body-wrapper\" style=\"top: 21px; height: 150px;\">
+<!---->
+</div>
+<div class=\"vue-table__fixed-footer-wrapper\" style=\"display: none;\">
+<!---->
+</div>
+</div>
+<div class=\"vue-table__fixed-right-patch\" style=\"width: 0px; height: 21px; display: none;\">
+</div>
+<div class=\"vue-table__column-resize-proxy\" style=\"display: none;\">
 </div>
 <!---->
-<div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 619px; height: 172px;">
+<div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 619px; height: 172px;\">
 </div>
 </div>
-<div class="contract-trigger">
-</div>
-</div>
-</div>
+<div class=\"contract-trigger\">
 </div>
 </div>
 </div>
- <div id="otherInfo" class="col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show">
-<div class="height30 border-bottom1">
-<div class="col-md-12 col-sm-12 col-xs-12 assetinfoitem-header">
-<div class="padding-top5 float-left">
-<a href="javascript:;">
-<span title="非表示" class="glyphicon glyphicon-triangle-bottom">
+</div>
+</div>
+</div>
+ <div class=\"col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show\" id=\"otherInfo\">
+<div class=\"height30 border-bottom1\">
+<div class=\"col-md-12 col-sm-12 col-xs-12 assetinfoitem-header\">
+<div class=\"padding-top5 float-left\">
+<a href=\"javascript:;\">
+<span title=\"非表示\" class=\"glyphicon glyphicon-triangle-bottom\">
 </span>
 </a>
  <span>
@@ -1061,18 +1060,18 @@ Link</a>
 </div>
 </div>
 </div>
- <div class="padding-top5 padding-bottom5">
-<form class="vue-form" style="position: relative;">
-<div class="vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19">
-<div class="vue-form-item">
-<label class="vue-form-item__label" style="width: 120px;">
+ <div class=\"padding-top5 padding-bottom5\">
+<form class=\"vue-form\" style=\"position: relative;\">
+<div class=\"vue-col vue-col-24 vue-col-xs-24 vue-col-sm-20 vue-col-md-20 vue-col-lg-19\">
+<div class=\"vue-form-item\">
+<label class=\"vue-form-item__label\" style=\"width: 120px;\">
 利用予約フラグ</label>
-<div class="vue-form-item__content" style="margin-left: 120px;">
-<label class="vue-checkbox margin-bottom0">
-<span class="vue-checkbox__input is-checked">
-<span class="vue-checkbox__inner">
+<div class=\"vue-form-item__content\" style=\"margin-left: 120px;\">
+<label class=\"vue-checkbox margin-bottom0\">
+<span class=\"vue-checkbox__input is-checked\">
+<span class=\"vue-checkbox__inner\">
 </span>
-<input type="checkbox" tabindex="0" class="vue-checkbox__original" value="">
+<input tabindex=\"0\" class=\"vue-checkbox__original\" type=\"checkbox\" value=\"\">
 </span>
 <!---->
 </label>
@@ -1081,46 +1080,45 @@ Link</a>
 </div>
 </div>
  <!---->
-<input style="display: none;">
-<div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 620px; height: 1px;">
+<input style=\"display: none;\">
+<div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 620px; height: 18px;\">
 </div>
 </div>
-<div class="contract-trigger">
+<div class=\"contract-trigger\">
 </div>
 </div>
 </form>
 </div>
 </div>
- <div id="attachmentInfo" class="col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show">
-<div class="height30 border-bottom1">
-<div class="col-md-12 col-sm-12 col-xs-12 assetinfoitem-header">
-<div class="padding-top5 float-left">
-<a href="javascript:;">
-<span title="非表示" class="glyphicon glyphicon-triangle-bottom">
+ <div class=\"col-md-12 col-sm-12 col-xs-12 margin-top5 border padding-left-right0 show\" id=\"attachmentInfo\">
+<div class=\"height30 border-bottom1\">
+<div class=\"col-md-12 col-sm-12 col-xs-12 assetinfoitem-header\">
+<div class=\"padding-top5 float-left\">
+<a href=\"javascript:;\">
+<span title=\"非表示\" class=\"glyphicon glyphicon-triangle-bottom\">
 </span>
 </a>
  <span>
 添付</span>
 </div>
- <div class="padding-top3 float-right">
-<button type="button" class="vue-button vue-button--default vue-button--mini" id="roomInfoItem-attachmentUpdate" title="アップロード">
+ <div class=\"padding-top3 float-right\">
+<button title=\"アップロード\" class=\"vue-button vue-button--default vue-button--mini\" id=\"roomInfoItem-attachmentUpdate\" type=\"button\">
 <!---->
 <!---->
 <span>
-<i class="padding-right5">
+<i class=\"padding-right5\">
 </i>
-追加／削除
-								</span>
+追加／削除\n\t\t\t\t\t\t\t\t</span>
 </button>
 </div>
 </div>
 </div>
  <div>
-<div class="vue-upload--picture-card-line-height15 vue-col vue-col-24 vue-col-xs-24 vue-col-sm-24 vue-col-md-24 vue-col-lg-24">
-<div class="vue-table vue-table--fit vue-table--striped vue-table--border" style="width: 100%; height: 135px;">
-<div class="hidden-columns">
+<div class=\"vue-upload--picture-card-line-height15 vue-col vue-col-24 vue-col-xs-24 vue-col-sm-24 vue-col-md-24 vue-col-lg-24\">
+<div class=\"vue-table vue-table--fit vue-table--striped vue-table--border\" style=\"width: 100%; height: 135px;\">
+<div class=\"hidden-columns\">
 <div>
 </div>
  <div>
@@ -1132,192 +1130,192 @@ Link</a>
  <div>
 </div>
 </div>
-<div class="vue-table__main">
-<div class="vue-table__header-wrapper">
-<table cellspacing="0" cellpadding="0" border="0" class="vue-table__header" style="width: 740px;">
+<div class=\"vue-table__main\">
+<div class=\"vue-table__header-wrapper\">
+<table class=\"vue-table__header\" style=\"width: 740px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
 <colgroup>
-<col name="vue-table_column_9" width="250">
-<col name="vue-table_column_10" width="105">
-<col name="vue-table_column_11" width="165">
-<col name="vue-table_column_12" width="165">
-<col name="vue-table_column_13" width="55">
-<col name="gutter" width="17">
+<col width=\"250\" name=\"vue-table_column_9\">
+<col width=\"105\" name=\"vue-table_column_10\">
+<col width=\"165\" name=\"vue-table_column_11\">
+<col width=\"165\" name=\"vue-table_column_12\">
+<col width=\"55\" name=\"vue-table_column_13\">
+<col width=\"17\" name=\"gutter\">
 </colgroup>
 <thead>
-<tr class="vue-table__row">
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-fileName">
+<tr class=\"vue-table__row\">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-fileName\">
 ファイル名称</span>
-<span class="vue-table__sort-wrapper">
-<i class="is-sort vue-icon-sort-asc">
+<span class=\"vue-table__sort-wrapper\">
+<i class=\"is-sort vue-icon-sort-asc\">
 </i>
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-fileSizeShow">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-fileSizeShow\">
 サイズ</span>
-<span class="vue-table__sort-wrapper">
-<i class="is-sort vue-icon-sort-asc">
+<span class=\"vue-table__sort-wrapper\">
+<i class=\"is-sort vue-icon-sort-asc\">
 </i>
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-crateDate">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-crateDate\">
 作成日時</span>
-<span class="vue-table__sort-wrapper">
-<i class="is-sort vue-icon-sort-asc">
+<span class=\"vue-table__sort-wrapper\">
+<i class=\"is-sort vue-icon-sort-asc\">
 </i>
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-lastDate">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-lastDate\">
 更新日時</span>
-<span class="vue-table__sort-wrapper">
-<i class="is-sort vue-icon-sort-asc">
+<span class=\"vue-table__sort-wrapper\">
+<i class=\"is-sort vue-icon-sort-asc\">
 </i>
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-hidden is-leaf">
-<div class="cell" style="">
-<span class="vue-table_column-label vue-table_column-label-undefined">
+<th class=\"vue-table__column is-center is-hidden is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-undefined\">
 </span>
 </div>
 </th>
-<th class="vue-table__column gutter">
+<th class=\"vue-table__column gutter\">
 </th>
 </tr>
 </thead>
 </table>
 </div>
-<div tabindex="0" class="vue-table__body-wrapper" style="height: 94px;">
-<table cellspacing="0" cellpadding="0" border="0" class="vue-table__body" style="margin-top: 0px; margin-bottom: 0px; width: 740px;">
+<div tabindex=\"0\" class=\"vue-table__body-wrapper\" style=\"height: 94px;\">
+<table class=\"vue-table__body\" style=\"width: 740px; margin-top: 0px; margin-bottom: 0px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
 <colgroup>
-<col name="vue-table_column_9" width="250">
-<col name="vue-table_column_10" width="105">
-<col name="vue-table_column_11" width="165">
-<col name="vue-table_column_12" width="165">
-<col name="vue-table_column_13" width="55">
-<col name="gutter" width="0">
+<col width=\"250\" name=\"vue-table_column_9\">
+<col width=\"105\" name=\"vue-table_column_10\">
+<col width=\"165\" name=\"vue-table_column_11\">
+<col width=\"165\" name=\"vue-table_column_12\">
+<col width=\"55\" name=\"vue-table_column_13\">
+<col width=\"0\" name=\"gutter\">
 </colgroup>
 <tbody>
-<tr class="vue-table__row">
-<td class="vue-table__cell is-left">
-<div class="cell vue-tooltip">
+<tr class=\"vue-table__row\">
+<td class=\"vue-table__cell is-left\">
+<div class=\"cell vue-tooltip\">
 WeChat Image_20200519153101.png</div>
 <!---->
 </td>
-<td class="vue-table__cell is-right">
-<div class="cell">
+<td class=\"vue-table__cell is-right\">
+<div class=\"cell\">
 25.5KB</div>
 </td>
-<td class="vue-table__cell is-center">
-<div class="cell">
+<td class=\"vue-table__cell is-center\">
+<div class=\"cell\">
 2020/06/18 10:54:02</div>
 </td>
-<td class="vue-table__cell is-center">
-<div class="cell">
+<td class=\"vue-table__cell is-center\">
+<div class=\"cell\">
 2020/06/18 10:54:02</div>
 </td>
-<td class="vue-table__cell is-hidden">
-<div class="cell">
-<button type="button" class="vue-button vue-button--default vue-button--mini">
+<td class=\"vue-table__cell is-hidden\">
+<div class=\"cell\">
+<button class=\"vue-button vue-button--default vue-button--mini\" type=\"button\">
 <!---->
 <!---->
 <span>
-<i class="vue-icon-download2">
+<i class=\"vue-icon-download2\">
 </i>
 </span>
 </button>
 </div>
 </td>
-<td class="vue-table__cell gutter">
+<td class=\"vue-table__cell gutter\">
 </td>
 </tr>
 </tbody>
 </table>
-<div class="vue-table__empty-block" style="width: 740px; display: none;">
-<span class="vue-table__empty-text">
+<div class=\"vue-table__empty-block\" style=\"width: 740px; display: none;\">
+<span class=\"vue-table__empty-text\">
 </span>
 </div>
 </div>
-<div class="vue-table__footer-wrapper" style="display: none;">
+<div class=\"vue-table__footer-wrapper\" style=\"display: none;\">
 <!---->
 </div>
 </div>
-<div class="vue-table__fixed" style="display: none; height: 117px;">
-<div class="vue-table__fixed-header-wrapper">
+<div class=\"vue-table__fixed\" style=\"height: 117px; display: none;\">
+<div class=\"vue-table__fixed-header-wrapper\">
 <!---->
 </div>
-<div class="vue-table__fixed-body-wrapper" style="top: 40px; height: 77px;">
+<div class=\"vue-table__fixed-body-wrapper\" style=\"top: 40px; height: 77px;\">
 <!---->
 </div>
-<div class="vue-table__fixed-footer-wrapper" style="display: none;">
+<div class=\"vue-table__fixed-footer-wrapper\" style=\"display: none;\">
 <!---->
 </div>
 </div>
-<div class="vue-table__fixed-right" style="height: 117px; width: 55px;">
-<div class="vue-table__fixed-header-wrapper">
-<table cellspacing="0" cellpadding="0" border="0" class="vue-table__header" style="width: 55px;">
+<div class=\"vue-table__fixed-right\" style=\"width: 55px; height: 117px;\">
+<div class=\"vue-table__fixed-header-wrapper\">
+<table class=\"vue-table__header\" style=\"width: 55px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
 <colgroup>
-<col name="vue-table_column_9" width="250">
-<col name="vue-table_column_10" width="105">
-<col name="vue-table_column_11" width="165">
-<col name="vue-table_column_12" width="165">
-<col name="vue-table_column_13" width="55">
+<col width=\"250\" name=\"vue-table_column_9\">
+<col width=\"105\" name=\"vue-table_column_10\">
+<col width=\"165\" name=\"vue-table_column_11\">
+<col width=\"165\" name=\"vue-table_column_12\">
+<col width=\"55\" name=\"vue-table_column_13\">
 </colgroup>
 <thead>
-<tr class="vue-table__row">
-<th colspan="1" class="vue-table__column is-center is-hidden is-leaf">
-<div class="cell">
-<span class="vue-table_column-label vue-table_column-label-fileName">
+<tr class=\"vue-table__row\">
+<th class=\"vue-table__column is-center is-hidden is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-fileName\">
 ファイル名称</span>
-<span class="vue-table__sort-wrapper">
-<i class="is-sort vue-icon-sort-asc">
+<span class=\"vue-table__sort-wrapper\">
+<i class=\"is-sort vue-icon-sort-asc\">
 </i>
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-hidden is-leaf">
-<div class="cell">
-<span class="vue-table_column-label vue-table_column-label-fileSizeShow">
+<th class=\"vue-table__column is-center is-hidden is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-fileSizeShow\">
 サイズ</span>
-<span class="vue-table__sort-wrapper">
-<i class="is-sort vue-icon-sort-asc">
+<span class=\"vue-table__sort-wrapper\">
+<i class=\"is-sort vue-icon-sort-asc\">
 </i>
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-hidden is-leaf">
-<div class="cell">
-<span class="vue-table_column-label vue-table_column-label-crateDate">
+<th class=\"vue-table__column is-center is-hidden is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-crateDate\">
 作成日時</span>
-<span class="vue-table__sort-wrapper">
-<i class="is-sort vue-icon-sort-asc">
+<span class=\"vue-table__sort-wrapper\">
+<i class=\"is-sort vue-icon-sort-asc\">
 </i>
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-hidden is-leaf">
-<div class="cell">
-<span class="vue-table_column-label vue-table_column-label-lastDate">
+<th class=\"vue-table__column is-center is-hidden is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-lastDate\">
 更新日時</span>
-<span class="vue-table__sort-wrapper">
-<i class="is-sort vue-icon-sort-asc">
+<span class=\"vue-table__sort-wrapper\">
+<i class=\"is-sort vue-icon-sort-asc\">
 </i>
 </span>
 </div>
 </th>
-<th colspan="1" class="vue-table__column is-center is-leaf">
-<div class="cell">
-<span class="vue-table_column-label vue-table_column-label-undefined">
+<th class=\"vue-table__column is-center is-leaf\" colspan=\"1\">
+<div class=\"cell\">
+<span class=\"vue-table_column-label vue-table_column-label-undefined\">
 </span>
 </div>
 </th>
@@ -1325,41 +1323,41 @@ WeChat Image_20200519153101.png</div>
 </thead>
 </table>
 </div>
-<div class="vue-table__fixed-body-wrapper" style="top: 40px; height: 77px;">
-<table cellspacing="0" cellpadding="0" border="0" class="vue-table__body" style="margin-top: 0px; margin-bottom: 0px; width: 55px;">
+<div class=\"vue-table__fixed-body-wrapper\" style=\"top: 40px; height: 77px;\">
+<table class=\"vue-table__body\" style=\"width: 55px; margin-top: 0px; margin-bottom: 0px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
 <colgroup>
-<col name="vue-table_column_9" width="250">
-<col name="vue-table_column_10" width="105">
-<col name="vue-table_column_11" width="165">
-<col name="vue-table_column_12" width="165">
-<col name="vue-table_column_13" width="55">
+<col width=\"250\" name=\"vue-table_column_9\">
+<col width=\"105\" name=\"vue-table_column_10\">
+<col width=\"165\" name=\"vue-table_column_11\">
+<col width=\"165\" name=\"vue-table_column_12\">
+<col width=\"55\" name=\"vue-table_column_13\">
 </colgroup>
 <tbody>
-<tr class="vue-table__row">
-<td class="vue-table__cell is-left is-hidden">
-<div class="cell vue-tooltip">
+<tr class=\"vue-table__row\">
+<td class=\"vue-table__cell is-left is-hidden\">
+<div class=\"cell vue-tooltip\">
 WeChat Image_20200519153101.png</div>
 <!---->
 </td>
-<td class="vue-table__cell is-right is-hidden">
-<div class="cell">
+<td class=\"vue-table__cell is-right is-hidden\">
+<div class=\"cell\">
 25.5KB</div>
 </td>
-<td class="vue-table__cell is-center is-hidden">
-<div class="cell">
+<td class=\"vue-table__cell is-center is-hidden\">
+<div class=\"cell\">
 2020/06/18 10:54:02</div>
 </td>
-<td class="vue-table__cell is-center is-hidden">
-<div class="cell">
+<td class=\"vue-table__cell is-center is-hidden\">
+<div class=\"cell\">
 2020/06/18 10:54:02</div>
 </td>
-<td class="vue-table__cell template-column-cell">
-<div class="cell">
-<button type="button" class="vue-button vue-button--default vue-button--mini">
+<td class=\"vue-table__cell template-column-cell\">
+<div class=\"cell\">
+<button class=\"vue-button vue-button--default vue-button--mini\" type=\"button\">
 <!---->
 <!---->
 <span>
-<i class="vue-icon-download2">
+<i class=\"vue-icon-download2\">
 </i>
 </span>
 </button>
@@ -1369,26 +1367,27 @@ WeChat Image_20200519153101.png</div>
 </tbody>
 </table>
 </div>
-<div class="vue-table__fixed-footer-wrapper" style="display: none;">
+<div class=\"vue-table__fixed-footer-wrapper\" style=\"display: none;\">
 <!---->
 </div>
 </div>
-<div class="vue-table__fixed-right-patch" style="width: 0px; height: 40px;">
+<div class=\"vue-table__fixed-right-patch\" style=\"width: 0px; height: 40px;\">
 </div>
-<div class="vue-table__column-resize-proxy" style="display: none;">
+<div class=\"vue-table__column-resize-proxy\" style=\"display: none;\">
 </div>
 <!---->
-<div class="resize-triggers">
-<div class="expand-trigger">
-<div style="width: 619px; height: 135px;">
+<div class=\"resize-triggers\">
+<div class=\"expand-trigger\">
+<div style=\"width: 619px; height: 135px;\">
 </div>
 </div>
-<div class="contract-trigger">
-</div>
-</div>
-</div>
+<div class=\"contract-trigger\">
 </div>
 </div>
 </div>
 </div>
 </div>
+</div>
+</div>
+</div>
+"
